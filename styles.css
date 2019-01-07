@@ -1,0 +1,18 @@
+img{
+    width:450px;
+    }
+body{
+    text-align:center;
+    font-family: 'Charm', cursive;
+    font-size:20px;
+    background-color:lightpink;
+    }
+h1{
+    text-align:center;
+    }
+.advance{font-size:20px;
+    color:darkblue;
+    background-color:lightblue;
+    padding:5px;
+    
+    }
